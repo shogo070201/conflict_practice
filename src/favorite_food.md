@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+red_apple
